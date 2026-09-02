@@ -1,0 +1,31 @@
+Data,Produto,Cidade,Quantidade,Preco
+2026-01-05,Notebook,São Paulo,5,3000
+2026-01-08,Mouse,Guarulhos,20,70
+2026-01-12,Teclado,Guarulhos,15,100
+2026-01-15,Monitor,São Paulo,8,800
+2026-01-20,Headset,Mairiporã,10,300
+2026-02-03,Notebook,Guarulhos,4,3000
+2026-02-07,Mouse,São Paulo,25,70
+2026-02-11,Teclado,Arujá,18,100
+2026-02-18,Monitor,Guarulhos,10,800
+2026-02-25,Headset,São Paulo,12,300
+2026-03-04,Notebook,São Paulo,6,3000
+2026-03-09,Mouse,Guarulhos,30,70
+2026-03-14,Teclado,Guarulhos,22,100
+2026-03-19,Monitor,Arujá,7,800
+2026-03-27,Headset,Mairiporã,15,300
+2026-04-02,Notebook,Guarulhos,7,3000
+2026-04-08,Mouse,São Paulo,35,70
+2026-04-13,Teclado,São Paulo,28,100
+2026-04-21,Monitor,Guarulhos,12,800
+2026-04-28,Headset,Arujá,18,300
+2026-05-05,Notebook,São Paulo,8,3000
+2026-05-10,Mouse,Guarulhos,40,70
+2026-05-16,Teclado,Guarulhos,35,100
+2026-05-22,Monitor,São Paulo,15,800
+2026-05-29,Headset,Mairiporã,20,300
+2026-06-03,Notebook,Guarulhos,9,3000
+2026-06-09,Mouse,São Paulo,45,70
+2026-06-15,Teclado,Arujá,40,100
+2026-06-20,Monitor,Guarulhos,18,800
+2026-06-27,Headset,São Paulo,25,300
